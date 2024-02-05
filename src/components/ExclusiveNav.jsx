@@ -45,7 +45,7 @@ const ExclusiveNav = () => {
                 </li>
                 <li>
                   <a
-                    href="!"
+                    href="#traga"
                     onClick={setopen}
                     className=" font-Inter font-medium text-[#fff] text-base leading-[160%] opacity-80 transition-all ease-linear duration-200 hover:text-white hover:opacity-100"
                   >
